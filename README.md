@@ -590,10 +590,3 @@ The project combines structured data management, business validation, automation
 It is suitable as a **Salesforce Administrator portfolio project** and can be extended with more advanced automation, security, Experience Cloud, notifications, and SLA functionality.
 
 ---
-
-## Author
-
-**Salesforce Project — Student Help Desk Management System**
-
-Built using **Salesforce Developer Edition**.
-
